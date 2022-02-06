@@ -20,6 +20,7 @@
         </dependency>
 
         <!-- Testing -->
+        <!-- add comment -->
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
